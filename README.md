@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Projet_DevOps_MLOps
 =======
+# PAPE BELELE DIA & NDOUMBE SOW
+=======
 # Projet Terraform pour Azure VM et Déploiement d'API Docker
 
 Ce projet contient les fichiers de configuration pour créer une machine virtuelle Azure, installer Docker et Git, cloner un dépôt GitHub, et déployer une API en utilisant Terraform.
